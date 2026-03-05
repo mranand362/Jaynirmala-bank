@@ -155,7 +155,7 @@ const Hero = () => {
             className="w-full h-full object-cover"
             style={{
               transform: `scale(${index === currentSlide ? 1.05 : 1})`,
-              transition: "transform 0s ease-out",
+              transition: "transform 0.1s ease-out",
             }}
           />
           <div className="absolute inset-0 bg-gradient-to-r from-[#0B2A4A] via-[#0B2A4A]/80 to-transparent" />
