@@ -40,7 +40,7 @@ const Navbar = () => {
             <div className="flex items-center gap-4">
               <a href="mailto:info@njfnidhi.in" className="flex items-center gap-1 text-gray-200 hover:text-[#FDB813] transition-colors">
                 <MailOpen size={14} />
-                <span>info@njfnidhi.in</span>
+                <span>info@jaynirmala.com</span>
               </a>
               <span className="text-gray-400">|</span>
               <a href="tel:+917397782590" className="flex items-center gap-1 text-gray-200 hover:text-[#FDB813] transition-colors font-medium">
