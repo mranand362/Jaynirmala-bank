@@ -52,7 +52,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-3">
               <img src={logo} alt="MICRO Logo" className="h-12 w-auto object-contain" />
-              <h3 className="text-2xl font-bold">MICRO</h3>
+              <h3 className="text-2xl font-bold">JAY NIRMALA</h3>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
               A trusted name in financial services, committed to transparency, security, and member growth since inception.
@@ -104,7 +104,7 @@ const Footer = () => {
                 <FaMapMarkerAlt className="text-[#FDB813] flex-shrink-0" />
                 <span className="text-gray-300">
                   No. 362/B, Kamarajar Street,<br />
-                  Villupuram – 605602, Tamil Nadu
+                  Darbhanga – 605602, Bihar, India
                 </span>
               </li>
               <li className="flex items-center justify-center lg:justify-start gap-3">
@@ -116,7 +116,7 @@ const Footer = () => {
               <li className="flex items-center justify-center lg:justify-start gap-3">
                 <FaEnvelope className="text-[#FDB813] flex-shrink-0" />
                 <a href="mailto:info@micro.com" className="text-gray-300 hover:text-[#FDB813] transition-colors">
-                  info@micro.com
+                  info@Jaynirmala.com
                 </a>
               </li>
             </ul>
@@ -185,7 +185,7 @@ const Footer = () => {
 
         {/* Additional CIN */}
         <p className="text-center text-xs text-gray-600 mt-6">
-          MICRO | CIN-U85300BR2023NPL061372
+          JAY NIRMALA| CIN-U85300BR2023NPL061372
         </p>
       </div>
     </footer>
